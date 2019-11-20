@@ -1,4 +1,4 @@
-# Aztec-Universal1.github.io
+# Aztec-Universal1
 
 link to live site https://Piggy-Pump.github.io/Aztec-Universal1/
 
